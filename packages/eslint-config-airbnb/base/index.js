@@ -67,6 +67,7 @@ module.exports = {
     'no-irregular-whitespace': 2,    // http://eslint.org/docs/rules/no-irregular-whitespace
     'no-obj-calls': 2,               // http://eslint.org/docs/rules/no-obj-calls
     'no-sparse-arrays': 2,           // http://eslint.org/docs/rules/no-sparse-arrays
+    'no-undef': 2,                   // http://eslint.org/docs/rules/no-undef
     'no-unreachable': 2,             // http://eslint.org/docs/rules/no-unreachable
     'use-isnan': 2,                  // http://eslint.org/docs/rules/use-isnan
     'block-scoped-var': 2,           // http://eslint.org/docs/rules/block-scoped-var
